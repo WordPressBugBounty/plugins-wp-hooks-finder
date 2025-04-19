@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WP Hooks Finder
- * Version: 1.3.2
+ * Version: 1.3.3
  * Description: Easily enable/disable hooks and filters which are running in the page. A menu "WP Hooks Finder" will be added in your wordpress admin bar menu where you can display all the hooks and filters
  * Author: Muhammad Rehman
  * Author URI: https://muhammadrehman.com/
@@ -10,7 +10,7 @@
  */
 
 define( 'WPHF_PLUGIN_PATH', plugin_dir_url( __FILE__ ) );
-define( 'WPHF_PLUGIN_VERSION', '1.3.2' );
+define( 'WPHF_PLUGIN_VERSION', '1.3.3' );
 
 Class WP_Hooks_Finder {
 

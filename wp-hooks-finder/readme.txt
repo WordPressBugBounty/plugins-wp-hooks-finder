@@ -2,8 +2,8 @@
 Contributors: Muhammad Rehman
 Tags: wordpress hooks, filter, action, wp hooks
 Requires at least: 4.0
-Tested up to: 6.7
-Stable tag: 1.3.2
+Tested up to: 6.8
+Stable tag: 1.3.3
 License: GPLv2
 License URI: GPLv2
 
@@ -37,6 +37,9 @@ Just after installing WP Hooks Finder, A new menu "WP Hooks Finder" will be adde
 2. Display Actions & Filters
 
 == Changelog ==
+= 1.3.3 =
+- Tested up to WP v6.8
+
 = 1.3.2 =
 - **FIX** - Resolved issue where dialog boxes were open by default
 - **FIX** - Reduced dialog boxes Overlapping issue
